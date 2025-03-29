@@ -1,0 +1,27 @@
+settings no_print=false
+
+var x = 5.5
+print x
+print x + 1
+print x + 1.2
+print x / 2
+print x * 5.5
+print x**2
+print x/x
+
+var x = x+1.22222222222223
+print x
+
+settings no_print=true
+
+1+1
+
+settings no_print=false
+
+1+1
+
+print 1+1
+
+
+
+
