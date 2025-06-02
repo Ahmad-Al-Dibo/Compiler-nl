@@ -1,5 +1,3 @@
-Hier is een lijst met veelgebruikte foutcodes die je kunt gebruiken voor je systeem. Je kunt deze aanpassen aan je specifieke behoeften.
-
 ---
 
 ### **1. Algemene Fouten (1xxx)**
@@ -82,4 +80,3 @@ Hier is een lijst met veelgebruikte foutcodes die je kunt gebruiken voor je syst
 
 ---
 
-Wil je deze foutcodes in JSON of een database implementeren? 😊
